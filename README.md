@@ -1,6 +1,6 @@
 # Airbcar
 
-**Airbcar** is Morocco’s premier web platform that redefines the car rental experience for both locals and tourists. It connects customers with rental agencies through a centralized, user-friendly system—making the process of finding, comparing, and booking rental cars simple, fast, and transparent.
+**Airbcar** is Morocco’s premier web platform that redefines the car rental experience for both locals and tourists. It connects customers with rental agencies through a centralized, user-friendly system making the process of finding, comparing, and booking rental cars simple, fast, and transparent.
 
 With a modern, vibrant design inspired by Moroccan culture and support for **Arabic, French, and English**, Airbcar is built to serve a wide audience and scale across the region.
 
